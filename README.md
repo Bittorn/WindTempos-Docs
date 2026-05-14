@@ -1,4 +1,4 @@
-# Shaymin Documentation
+# Wind Tempos Documentation
 
 [Mkdocs documentation](https://www.mkdocs.org/)
 
@@ -7,8 +7,8 @@
 ## Project init (no-brain)
 
 ```sh
-uv init shaymindocs 
-cd shaymindocs
+uv init myproject 
+cd myproject
 uv add --dev mkdocs mkdocs-shadcn pymdown-extensions Pygments
 uv run mkdocs new .
 echo -e "theme:\n  name: shadcn" >> mkdocs.yml
