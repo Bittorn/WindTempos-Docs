@@ -15,3 +15,6 @@ nav:
   - Home: index.md
   - Shaymin Cobblemon:
     - Server Rules: shaymin/rules.md
+    - Mods and Packs: shaymin/content.md
+    - Custom Content: shaymin/custom.md
+    - Modpack License: shaymin/license.md
