@@ -1,4 +1,4 @@
-summary: Valid as of 2.0.0-ALPHA.1
+summary: Valid as of version 2.0.0-ALPHA.1
 
 ## Mods
 
