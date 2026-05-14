@@ -1,0 +1,8 @@
+site_name: Shaymin Documentation
+theme:
+  name: shadcn
+markdown_extensions:
+  - admonition
+  - codehilite
+  - shadcn.extensions.hover_card
+site_url: https://shaymin.windtempos.com/docs/
