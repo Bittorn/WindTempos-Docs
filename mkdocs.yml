@@ -1,12 +1,17 @@
-site_name: Shaymin Documentation
+site_name: Wind Tempos Documentation
 theme:
   name: shadcn
+  show_stargazers: false
+  icon: img/favicon.ico
+  topbar_sections: true
+  show_datetime: true
 markdown_extensions:
   - admonition
   - codehilite
   - shadcn.extensions.hover_card
-site_url: https://shaymin.windtempos.com/docs/
-repo_url: https://github.com/Bittorn/Shaymin-Docs
+site_url: https://docs.windtempos.com/
+repo_url: https://github.com/Bittorn/WindTempos-Docs
 nav:
   - Home: index.md
-  - Server Rules: rules.md
+  - Shaymin Cobblemon:
+    - Server Rules: shaymin/rules.md
