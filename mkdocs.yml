@@ -6,3 +6,7 @@ markdown_extensions:
   - codehilite
   - shadcn.extensions.hover_card
 site_url: https://shaymin.windtempos.com/docs/
+repo_url: https://github.com/Bittorn/Shaymin-Docs
+nav:
+  - Home: index.md
+  - Server Rules: rules.md

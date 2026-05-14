@@ -1,3 +1,3 @@
-# Welcome to the Shaymin Documentation
+# Home
 
 ## Server IP: mon.windtempos.com
