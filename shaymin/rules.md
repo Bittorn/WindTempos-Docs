@@ -1,8 +1,7 @@
 !!! info ""
     The contents of our rules are **NOT** all-inclusive. Moderation action may be taken at any time as needed to maintain a fun, chill server environment. Some punishments may not pertain to any rule specifically, if at all, especially during events.
 
-!!! danger ""
-    **It is your responsibility to stay up-to-date with our rules.**
+!!! danger "It is your responsibility to stay up-to-date with our rules."
 
 ## How Rules are Enforced
 
