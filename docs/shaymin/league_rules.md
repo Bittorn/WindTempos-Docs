@@ -14,7 +14,7 @@ If you find navigating this document difficult, use the Find shortcut (Ctrl/Cmd 
 ## Update Notice!
 
 - Updated from our previous custom format to the National Dex OU format by Smogon  
-- Two gimmicks can be used (e.g. Mega Evolution, Z-Moves, Terastalization), however if a player is using Dynamax/Gigamantax they may only use that gimmick.  
+- Two gimmicks can be used (e.g. Mega Evolution, Z-Moves, Terastalization), however if a player is using Dynamax/Gigantamax they may only use that gimmick.  
 - Adjusted some minor rules.  
 - Adjusted some of the banned Pokémon, Z-Moves, Legendaries, Mythicals and Ubermons.
 
@@ -36,7 +36,7 @@ If you find navigating this document difficult, use the Find shortcut (Ctrl/Cmd 
 
 - **When challenging a Gym,** players are limited to no more than one Limited Pokémon on their team.   
      
-- Challengers may only use up to 2 gimmicks (Mega Evolution, Z-Moves or Terastalization) or only use 1 if the gimmick is Dynamax/Gigamantax.
+- Challengers may only use up to 2 gimmicks (Mega Evolution, Z-Moves or Terastalization) or only use 1 if the gimmick is Dynamax/Gigantamax.
 
 - **When challenging Elite Trainers or the Champion** players are limited to no more than one Limited Pokémon/slot on their team
 
