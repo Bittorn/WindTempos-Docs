@@ -460,6 +460,14 @@
     <span id="updated_at" class="text-sm opacity-50 hover:opacity-100 transition-opacity duration-200"
         title="last update (local time)"></span>
 </div>
+
+<script>
+    const updatedAt = document.getElementById("updated_at");
+    if (updatedAt) {
+        const date = new Date('2026-05-16T16:19:52+10:00');
+        updatedAt.textContent = date.toLocaleDateString();
+    }
+</script>
  
     </div>
   </div>
@@ -478,7 +486,7 @@
 <h2 id="update-notice">Update Notice!</h2>
 <ul>
 <li>Updated from our previous custom format to the National Dex OU format by Smogon  </li>
-<li>Two gimmicks can be used (e.g. Mega Evolution, Z-Moves, Terastalization), however if a player is using Dynamax/Gigamantax they may only use that gimmick.  </li>
+<li>Two gimmicks can be used (e.g. Mega Evolution, Z-Moves, Terastalization), however if a player is using Dynamax/Gigantamax they may only use that gimmick.  </li>
 <li>Adjusted some minor rules.  </li>
 <li>Adjusted some of the banned Pokémon, Z-Moves, Legendaries, Mythicals and Ubermons.</li>
 </ul>
@@ -501,7 +509,7 @@
 <p><strong>When challenging a Gym,</strong> players are limited to no more than one Limited Pokémon on their team.   </p>
 </li>
 <li>
-<p>Challengers may only use up to 2 gimmicks (Mega Evolution, Z-Moves or Terastalization) or only use 1 if the gimmick is Dynamax/Gigamantax.</p>
+<p>Challengers may only use up to 2 gimmicks (Mega Evolution, Z-Moves or Terastalization) or only use 1 if the gimmick is Dynamax/Gigantamax.</p>
 </li>
 <li>
 <p><strong>When challenging Elite Trainers or the Champion</strong> players are limited to no more than one Limited Pokémon/slot on their team</p>
