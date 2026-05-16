@@ -14,7 +14,10 @@ repo_url: https://github.com/Bittorn/WindTempos-Docs
 nav:
   - Home: index.md
   - Shaymin Cobblemon:
-    - Server Rules: shaymin/rules.md
-    - Mods and Packs: shaymin/content.md
-    - Custom Content: shaymin/custom.md
-    - Modpack License: shaymin/license.md
+      - Server Rules: shaymin/rules.md
+      - Mods and Packs: shaymin/content.md
+      - Custom Content: shaymin/custom.md
+      - Modpack License: shaymin/license.md
+
+      - Shaymin League:
+          - Competitive Rules: shaymin/league_rules.md
